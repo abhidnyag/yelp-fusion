@@ -9,6 +9,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "async": "^2.6.0",
+    "mysql": "^2.15.0",
     "yelp-fusion": "^2.0.2"
   }
 }
